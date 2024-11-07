@@ -1,0 +1,73 @@
+[
+    {
+      "username": "jdoe",
+      "name": "John Doe",
+      "age": 20,
+      "course": "Computer Science",
+      "grade": "A"
+    },
+    {
+      "username": "asmith",
+      "name": "Alice Smith",
+      "age": 22,
+      "course": "Physics",
+      "grade": "B+"
+    },
+    {
+      "username": "rjones",
+      "name": "Robert Jones",
+      "age": 21,
+      "course": "Mathematics",
+      "grade": "A-"
+    },
+    {
+      "username": "mjones",
+      "name": "Mary Johnson",
+      "age": 23,
+      "course": "Chemistry",
+      "grade": "A+"
+    },
+    {
+      "username": "lwhite",
+      "name": "Linda White",
+      "age": 19,
+      "course": "Biology",
+      "grade": "B"
+    },
+    {
+      "username": "bwilliams",
+      "name": "Brian Williams",
+      "age": 20,
+      "course": "Engineering",
+      "grade": "A"
+    },
+    {
+      "username": "akumar",
+      "name": "Amit Kumar",
+      "age": 22,
+      "course": "Information Technology",
+      "grade": "B+"
+    },
+    {
+      "username": "nsharma",
+      "name": "Nina Sharma",
+      "age": 21,
+      "course": "Physics",
+      "grade": "A"
+    },
+    {
+      "username": "cperez",
+      "name": "Carlos Perez",
+      "age": 20,
+      "course": "Statistics",
+      "grade": "B-"
+    },
+    {
+      "username": "ytanaka",
+      "name": "Yuki Tanaka",
+      "age": 23,
+      "course": "Data Science",
+      "grade": "A+"
+    }
+  ]
+  
